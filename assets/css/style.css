@@ -523,16 +523,15 @@
 
 .form .inner-form .form-control {
     margin-bottom: 25px;
+    border-radius: 25px;
 }
 
 .form .inner-form input {
-    border-radius: 45px;
     padding: 23px;
     border: none;
 }
 
 .form .inner-form textarea {
-    border-radius: 20px;
     resize: none;
     padding: 20px;
     border: none;
